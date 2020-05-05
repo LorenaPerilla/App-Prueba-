@@ -1,0 +1,26 @@
+{
+  "cwd": "C:\\Users\\paula perilla\\Desktop\\app-prueba",
+  "type": [
+    "web"
+  ],
+  "name": "App Prueba",
+  "framework": "core",
+  "template": "blank",
+  "bundler": "webpack",
+  "cssPreProcessor": "less",
+  "theming": {
+    "customColor": true,
+    "color": "#edadff",
+    "darkTheme": false,
+    "iconFonts": true,
+    "fillBars": true
+  },
+  "customBuild": false,
+  "webpack": {
+    "developmentSourceMap": true,
+    "productionSourceMap": true,
+    "hashAssets": false,
+    "preserveAssetsPaths": false,
+    "inlineAssets": true
+  }
+}
